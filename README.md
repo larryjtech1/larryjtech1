@@ -21,7 +21,7 @@
 
 
 
-[youtube]: https://https://www.youtube.com/channel/UCJFm2XnQaUpVd8GbxzxTOCw
+[youtube]: https://www.youtube.com/channel/UCJFm2XnQaUpVd8GbxzxTOCw
 [linkedin]: https://www.linkedin.com/in/larry-mccarty-212660239/
 
 <!--
